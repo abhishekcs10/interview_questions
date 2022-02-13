@@ -33,7 +33,7 @@ I was judged on below 5 points mainly as per HR review
 4. Code reusability and readability
 5. Communication
 
-I was able to solve all the above problem except 6th. Got good rating for 1,2 point. But because of not handling corner cases or copy pasting repeated lines of code, I was marked below average in 3 and 5. Your code has to be perfect to score that. I was confident to be selected as I had solved the problems with time complexities expected from interviewer but was on the verge because of coding part. Although I could have easily corrected those mistakes if pointed but I guess interviewers intention was to check how perfect I can code in one go.
+I was able to solve all the above problem except 6th. Got good rating for 1,2 point. But because of not handling corner cases or copy pasting repeated lines of code, I was marked below average in 3 and 4. Your code has to be perfect to score that. I was confident to be selected as I had solved the problems with time complexities expected from interviewer but was on the verge because of coding part. Although I could have easily corrected those mistakes if pointed but I guess interviewers intention was to check how perfect I can code in one go.
 
 After first 4 questions, I was put on hold rating by hiring committee. An additional interview happened in which Q6 was asked. I had performed bad in that and it was decisive round. I however requested HR to get me an additional round which she did, Q5 was asked in the round which I was able to solve but was rated average because of coding part.
 
